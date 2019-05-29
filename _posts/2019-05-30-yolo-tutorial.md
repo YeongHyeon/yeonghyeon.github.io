@@ -6,8 +6,8 @@ tags: [YOLO, deep-learning, object-detection]
 date-string: MAY 30, 2019
 ---
 
-<strong>IN PROGRESS</strong>  
-This post covers the tutorial for using <a href="https://pjreddie.com/darknet/yolo/">YOLO</a>.
+#IN PROGRESS
+This post covers the tutorial for using <a href="https://pjreddie.com/darknet/yolo/">YOLO</a>.  
 
 ###Download YOLO (Darknet)
 ``` sh
@@ -16,7 +16,7 @@ $ cd darknet
 ```
 
 ###Makefile
-First, you should adjust the setting of 'Makefile'
+First, you should adjust the setting of 'Makefile'  
 ``` Makefile
 # If you have GPU and GPU driver is installed, set this option as GPU=1
 # Also, set other options as 1 if you already prepared.
@@ -26,7 +26,7 @@ OPENCV = 0
 OPENMP = 0
 DEBUG  = 0
 ```
-Then, use ```make``` command to make environment.
+Then, use ```make``` command to make environment.  
 ``` sh
 $ make
 
@@ -37,7 +37,7 @@ gcc -Iinclude/ -Isrc/ -DGPU -I/usr/local/cuda/include/ -Wall -Wno-unused-result 
 ```
 
 ###Dataset
-Construct dataset as <a href="http://host.robots.ox.ac.uk/pascal/VOC/">PASCAL VOC</a> form.
+Construct dataset as <a href="http://host.robots.ox.ac.uk/pascal/VOC/">PASCAL VOC</a> form.  
 ```
 Dataset
 └─ Set Name
@@ -54,7 +54,7 @@ Dataset
        └─ 1.jpg, 2.jpg, ... n.jpg
 ```
 
-You can achieve 'labels' directory of above structure by processing the dataset using following python script.
+You can achieve 'labels' directory of above structure by processing the dataset using following python script.  
 ``` sh
 $ wget https://pjreddie.com/media/files/voc_label.py
 $ python voc_label.py
