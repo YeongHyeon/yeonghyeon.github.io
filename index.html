@@ -9,15 +9,15 @@ layout: post-index
             <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a>
         </h1>
     </header>
-    
+
     <!-- POST CONTENT -->
     <div class="entry-content">
         {{ post.content }}
     </div>
-    
+
     <!--- DIVIDING LINE -->
     <hr>
-    
+
     <!-- POST TAGS -->
     <div class="inline-tags">
         <span>
@@ -26,9 +26,9 @@ layout: post-index
         {% endfor %}
         </span>
     </div>
-    
+
     <br>
-    
+
     <!-- POST DATE -->
     <div class="post-date">
         <span class="entry-date date published updated">
@@ -37,7 +37,7 @@ layout: post-index
             </time>
         </span>
     </div>
-    
+
 </article>
 {% endfor %}
 
