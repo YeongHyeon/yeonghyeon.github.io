@@ -64,7 +64,7 @@ UUID=411c907b-9770-4c4f-9f76-ce536e0634dd /home/{username}/hdisk01  ext4  defaul
 UUID=67fa5f60-0664-4b99-b2e8-fa2ca07e4d39 /home/{username}/hdisk02  ext4  defaults  1 2
 ```
 
-### 4. Rebooting and comfirmation
+### 4. Rebooting and confirmation
 ``` sh
 $ df -h
 
