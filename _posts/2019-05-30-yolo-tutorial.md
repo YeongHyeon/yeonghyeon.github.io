@@ -6,7 +6,7 @@ tags: [YOLO, deep-learning, object-detection]
 date-string: MAY 30, 2019
 ---
 
-<strong>IN PROGRESS</strong>
+<strong>IN PROGRESS</strong>  
 This post covers the tutorial for using <a href="https://pjreddie.com/darknet/yolo/">YOLO</a>.
 
 ###Download YOLO (Darknet)
