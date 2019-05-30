@@ -6,16 +6,16 @@ tags: [YOLO, deep-learning, object-detection]
 date-string: MAY 30, 2019
 ---
 
-#IN PROGRESS
+# IN PROGRESS
 This post covers the tutorial for using <a href="https://pjreddie.com/darknet/yolo/">YOLO</a>.  
 
-###Download YOLO (Darknet)
+### Download YOLO (Darknet)
 ``` sh
 $ git clone https://github.com/pjreddie/darknet
 $ cd darknet
 ```
 
-###Makefile
+### Makefile
 First, you should adjust the setting of 'Makefile'  
 ```
 # If you have GPU and GPU driver is installed, set this option as GPU=1
@@ -36,7 +36,7 @@ gcc -Iinclude/ -Isrc/ -DGPU -I/usr/local/cuda/include/ -Wall -Wno-unused-result 
 gcc -Iinclude/ -Isrc/ -DGPU -I/usr/local/cuda/include/ -Wall -Wno-unused-result -Wno-unknown-pragmas -Wfatal-errors -fPIC -Ofast -DGPU obj/captcha.o obj/lsd.o obj/super.o obj/art.o obj/tag.o obj/cifar.o obj/go.o obj/rnn.o obj/segmenter.o obj/regressor.o obj/classifier.o obj/coco.o obj/yolo.o obj/detector.o obj/nightmare.o obj/instance-segmenter.o obj/darknet.o libdarknet.a -o darknet -lm -pthread -L/usr/local/cuda/lib64 -lcuda -lcudart -lcublas -lcurand -lstdc++ libdarknet.a
 ```
 
-###Dataset
+### Dataset
 Construct dataset as <a href="http://host.robots.ox.ac.uk/pascal/VOC/">PASCAL VOC</a> form.  
 ```
 Dataset
