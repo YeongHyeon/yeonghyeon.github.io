@@ -17,7 +17,7 @@ $ cd darknet
 
 ###Makefile
 First, you should adjust the setting of 'Makefile'  
-``` 
+```
 # If you have GPU and GPU driver is installed, set this option as GPU=1
 # Also, set other options as 1 if you already prepared.
 GPU    = 0
@@ -61,7 +61,7 @@ $ python voc_label.py
 ```
 
 However, you can manually construct 'labels' directory as following form.
-``` text
+``` 
 # class number, center x of ROI, center y of ROI, width, height
 # All values are provided with ratio form
 # 0             0.63             0.43             0.21   0.39
