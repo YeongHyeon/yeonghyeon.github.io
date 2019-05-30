@@ -17,7 +17,7 @@ $ cd darknet
 
 ###Makefile
 First, you should adjust the setting of 'Makefile'  
-``` Makefile
+``` 
 # If you have GPU and GPU driver is installed, set this option as GPU=1
 # Also, set other options as 1 if you already prepared.
 GPU    = 0
