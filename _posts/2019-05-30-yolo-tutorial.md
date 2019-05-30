@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: You only look once (YOLO): Real-Time Object Detection Tutorial
+title: You only look once (YOLO) - Real-Time Object Detection Tutorial
 tags: [YOLO, deep-learning, object-detection]
 date-string: MAY 30, 2019
 ---
@@ -61,7 +61,7 @@ $ python voc_label.py
 ```
 
 However, you can manually construct 'labels' directory as following form.
-``` 
+```
 # class number, center x of ROI, center y of ROI, width, height
 # All values are provided with ratio form
 # 0             0.63             0.43             0.21   0.39

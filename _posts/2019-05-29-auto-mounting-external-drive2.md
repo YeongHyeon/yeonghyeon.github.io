@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: You only look once (YOLO): Real-Time Object Detection Tutorial
+title: You only look once (YOLO) - Real-Time Object Detection Tutorial
 tags: [YOLO, deep-learning, object-detection]
 date-string: MAY 30, 2019
 ---
