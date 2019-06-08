@@ -81,6 +81,42 @@ You can use your own data for showing after this moment!
     </div>
 </center>
 
+### Full source code
+
+``` python
+classes = ['A','B','C','D','E','F','G','H','I']
+data1 = [3.00, 0.00, 2.00, 1.00, 1.00, 1.00, 1.00, 1.00, 1.00]
+data2 = [1.00, 1.00, 1.00, 1.00, 1.00, 3.00, 0.00, 2.00, 1.00]
+
+N = len(classes)
+angles = [n / float(N) * 2 * pi for n in range(N)]
+angles += angles[:1]
+
+plt.clf()
+ax = plt.subplot(polar=True)
+ax.set_theta_offset(pi / 2)
+ax.set_theta_direction(-1)
+
+plt.xticks(angles[:-1], classes)
+
+ax.set_rlabel_position(0)
+plt.yticks([1, 2, 3], [1, 2, 3], color="grey", size=7)
+plt.ylim(0, 3)
+
+data1 += data1[:1]
+ax.plot(angles, data1, 'magenta')
+ax.fill(angles, data1, facecolor='magenta', alpha=0.3)
+
+data2 += data2[:1]
+ax.plot(angles, data2, 'cyan')
+ax.fill(angles, data2, facecolor='cyan', alpha=0.3)
+
+legends = ('Label A', 'Label B')
+ax.legend(legends, loc=(0.9, .95),  labelspacing=0.1, fontsize='small')
+
+plt.show()
+```
+
 ### Reference
 <a href="https://matplotlib.org/gallery/api/radar_chart.html">Matplotlib</a>
 <a href="https://python-graph-gallery.com/391-radar-chart-with-several-individuals/">The python graph gallery</a>
