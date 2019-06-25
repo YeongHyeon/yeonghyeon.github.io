@@ -13,7 +13,12 @@ date-string: MAY 17, 2019
 
 <center>
     <div>
-        <img src="/images/2019-05-17/example.png">
-        <p>The example of arrhythmia detection.<br>Label '100', '103', and '107' are normal (healthy), mixed (normal and arrhythmia), and arrhythmia respectively.</p>
+        <img src="/images/2019-05-17/lyapunov.png">
+        <p>The sample ECG and Lyapunov spectrum for healthy and arrhythmia respectively.</p>
+    </div>
+    <br>
+    <div>
+        <img src="/images/2019-05-17/arrhythmia-detection.png">
+        <p>The example of arrhythmia detection. Label 100 and 103 is healthy and mixed (healthy and arrhythmia) ECG respectively.</p>
     </div>
 </center>
