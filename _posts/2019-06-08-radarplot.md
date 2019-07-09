@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Plotting radar chart in Python
 tags: [guide]
-date-string: JUN 08, 2019
+date-string: JUNE 08, 2019
 ---
 
 This post provides the sample source code for generating <strong>Radar Plot</strong>.
