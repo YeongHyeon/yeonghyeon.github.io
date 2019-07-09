@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Box plot in Python2
 tags: [paper]
-date-string: JULY 10, 2019
+date-string: JULY 3, 2019
 ---
 
 This post provides the sample source code for generating <strong>Box Plot</strong>.
