@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine
 tags: [paper]
-date-string: OCTOBER 22, 2018
+date-string: July 22, 2019
 ---
 
 
