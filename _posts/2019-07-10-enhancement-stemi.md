@@ -1,20 +1,20 @@
 ---
 layout: post
 categories: posts
-title: Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG
+title: Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine
 tags: [paper]
-date-string: July 10, 2019
+date-string: OCTOBER 22, 2018
 ---
 
 
-<a href="https://scholar.google.co.kr/citations?user=cZq6j0MAAAAJ&hl=ko">Web</a>
-<a href="https://scholar.google.co.kr/citations?user=cZq6j0MAAAAJ&hl=ko">PDF</a>
-<a href="https://github.com/YeongHyeon/Enhancementing-Method-for-STEMI-Detection">GitHub</a>
+<a href="https://www.mdpi.com/1424-8220/18/10/3573">MDPI</a>
+<a href="https://www.mdpi.com/1424-8220/18/10/3573/pdf">PDF</a>
+<a href="https://github.com/YeongHyeon/FARED_for_Anomaly_Detection">GitHub</a>
 
 
 <center>
     <div>
-        <img src="/images/2019-07-10/rawecg_normal_likestemi.png">
-        <p>The part that marked with a red box is normal but confused as STEMI by noise.</p>
+        <img src="/images/2018-10-22/microphone.png">
+        <p>The SMD assembly machine with microphone (red box)</p>
     </div>
 </center>
