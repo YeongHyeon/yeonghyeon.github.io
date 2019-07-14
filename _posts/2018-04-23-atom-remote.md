@@ -43,7 +43,7 @@ First, press the 'edit configuration' button. You can meet new page for typing y
 }
 ```
 
-I recommend you to refer https://atom.io/packages/remote-ftp for adjusting other detail properties. After typing above contents, save them with name as '.ftpconfig'.
+I recommend you to refer <a href="https://atom.io/packages/remote-ftp">https://atom.io/packages/remote-ftp</a> for adjusting other detail properties. After typing above contents, save them with name as '.ftpconfig'.
 
 ### 3. Connect to remote computer
 
