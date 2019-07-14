@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Source code management with atom and remote-ftp package.
-tags: [paper]
+tags: [setting]
 date-string: APRIL 23, 2018
 ---
 
@@ -28,7 +28,7 @@ First, press the 'edit configuration' button. You can meet new page for typing y
 ```
 {
     "protocol": "sftp",
-    "host": "{123.456.789.001}",
+    "host": "{123.456.789.001}", // IP or something
     "port": 22,
     "user": "{user name}",
     "pass": "{password}",
