@@ -7,8 +7,8 @@ date-string: MAY 17, 2019
 ---
 
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/tee.22927">Wiley Online Library</a>
-<a href="https://github.com/YeongHyeon/Arrhythmia_Detection_RNN_and_Lyapunov">GitHub</a>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/tee.22927">[Wiley Online Library]</a>
+<a href="https://github.com/YeongHyeon/Arrhythmia_Detection_RNN_and_Lyapunov">[GitHub]</a>
 
 
 <center>
