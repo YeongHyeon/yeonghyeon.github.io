@@ -6,10 +6,9 @@ tags: [paper]
 date-string: JULY 3, 2019
 ---
 
-<a href="https://scholar.google.co.kr/citations?user=cZq6j0MAAAAJ&hl=ko">WEB</a>
-<a href="https://scholar.google.co.kr/citations?user=cZq6j0MAAAAJ&hl=ko">PDF</a>
-<!-- <a href="https://github.com/YeongHyeon/Enhancementing-Method-for-STEMI-Detection">GitHub</a> -->
-<a href="https://github.com/YeongHyeon">GitHub</a>
+<a href="https://ieeexplore.ieee.org/document/8771175/authors#authors">Early Access</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771175&tag=1">PDF</a>
+<a href="https://github.com/YeongHyeon/Enhancementing-Method-for-STEMI-Detection">GitHub</a>
 
 
 <center>
