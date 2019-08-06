@@ -6,8 +6,8 @@ tags: [paper]
 date-string: JULY 3, 2019
 ---
 
-<a href="https://ieeexplore.ieee.org/document/8771175">[Early Access]</a>
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771175&tag=1">[PDF]</a>
+<a href="https://ieeexplore.ieee.org/document/8771175">[IEEE Access]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771175">[PDF]</a>
 <a href="https://github.com/YeongHyeon/Enhancementing-Method-for-STEMI-Detection">[GitHub]</a>
 
 
