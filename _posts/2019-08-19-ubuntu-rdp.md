@@ -26,6 +26,14 @@ sudo service xrdp restart
 
 <a href="https://apps.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12">Microsoft Remote Desktop App</a>
 
+The GUI may look different from the original Ubuntu GUI (but work samely).
+
+<center>
+    <div>
+        <img src="/images/2019-08-19/rdp.png">
+    </div>
+</center>
+
 
 ### Troubleshooting
 
