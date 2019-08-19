@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Remote Desktop Protocol Setup for Ubuntu
+title: VNC Setup for Ubuntu
 tags: [setting]
 date-string: AUGUST 19, 2019
 ---
