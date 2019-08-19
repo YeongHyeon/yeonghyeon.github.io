@@ -6,7 +6,7 @@ tags: [setting]
 date-string: AUGUST 19, 2019
 ---
 
-This post covers how to set up the remote desktop protocol for connecting Ubuntu. This method does not need a physical monitor for using GUI. VNC viewer can be basically used for connection but it needs physical monitor attachment.
+This post covers how to set up the desktop sharing for connecting Ubuntu via VNC. This method needs a physical monitor for using GUI.
 
 ### 1. Go to sharing menu
 <center>
