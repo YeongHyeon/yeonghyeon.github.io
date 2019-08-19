@@ -25,3 +25,15 @@ sudo service xrdp restart
 ### 3. Connect remote PC via remote desktop application
 
 <a href="https://apps.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12">Microsoft Remote Desktop App</a>
+
+
+### Troubleshooting
+
+When you get the black or blue screen without any icon (in Desktop), enter the following commands.
+
+``` sh
+sudo apt-get remove xorgxrdp
+sudo apt-get install xorgxrdp
+
+sudo service xrdp restart
+```
