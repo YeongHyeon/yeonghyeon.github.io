@@ -8,7 +8,7 @@ date-string: AUGUST 19, 2019
 
 This post covers how to install the <a href="http://www.tensorflow.org">'TensorFlow'</a> in Ubuntu. This method does not need other download procedure via web browser (only using terminal).
 
-### 1. Install CUDA
+### 1. Install CUDA (CUDA 10)
 
 ``` sh
 echo "export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/extras/CUPTI/lib64" >> .bashrc
