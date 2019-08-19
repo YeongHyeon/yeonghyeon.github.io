@@ -37,6 +37,8 @@ The GUI may look different from the original Ubuntu GUI (but work samely).
 
 ### Troubleshooting
 
+#### Empty screen
+
 When you get the black or blue screen without any icon (in Desktop), enter the following commands.
 
 ``` sh
@@ -44,4 +46,21 @@ sudo apt-get remove xorgxrdp
 sudo apt-get install xorgxrdp
 
 sudo service xrdp restart
+```
+
+#### Access at other network
+
+First, open the 'xdrp.ini'.
+
+``` sh
+sudo vi /etc/xrdp/xrdp.ini
+```
+
+Port number is originally '3389'.
+You need to change it to other number for example 1234.
+Then, restart xrdp and Desktop.
+
+``` sh
+sudo service xrdp restart
+sudo reboot
 ```
