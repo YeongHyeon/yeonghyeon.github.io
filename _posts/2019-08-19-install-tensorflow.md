@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Install TensorFlow in Ubuntu
-tags: [setting]
+tags: [Setting]
 date-string: AUGUST 19, 2019
 ---
 

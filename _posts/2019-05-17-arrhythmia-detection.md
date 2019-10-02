@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Arrhythmia Detection in Electrocardiogram based on Recurrent Neural Network Encoder–Decoder with Lyapunov Exponent
-tags: [paper]
+tags: [Paper]
 date-string: MAY 17, 2019
 ---
 

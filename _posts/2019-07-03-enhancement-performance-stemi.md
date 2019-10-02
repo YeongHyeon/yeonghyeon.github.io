@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG
-tags: [paper]
+tags: [Paper]
 date-string: JULY 3, 2019
 ---
 

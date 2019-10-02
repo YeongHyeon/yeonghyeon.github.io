@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Source code management with atom and remote-ftp package.
-tags: [setting]
+tags: [Setting]
 date-string: APRIL 23, 2018
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Plotting ylabel in Same Coordiate
-tags: [guide]
+tags: [Python]
 date-string: JULY 18, 2019
 ---
 

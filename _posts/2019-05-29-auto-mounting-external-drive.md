@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Automounting external drive in Ubuntu
-tags: [setting]
+tags: [Setting]
 date-string: MAY 29, 2019
 ---
 

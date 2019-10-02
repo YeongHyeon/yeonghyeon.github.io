@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Plotting radar chart in Python
-tags: [guide]
+tags: [Python]
 date-string: JUNE 08, 2019
 ---
 
@@ -118,5 +118,5 @@ plt.show()
 ```
 
 ### Reference
-<a href="https://matplotlib.org/gallery/api/radar_chart.html">Matplotlib</a>
+<a href="https://matplotlib.org/gallery/api/radar_chart.html">Matplotlib</a></br>
 <a href="https://python-graph-gallery.com/391-radar-chart-with-several-individuals/">The python graph gallery</a>
