@@ -8,7 +8,7 @@ date-string: JULY 18, 2019
 
 When you draw the three figures respectively by single plotting function, you may encounter a situation where the location of the y labels are different. This post deal with how to align the location of y label via tricky method.
 
-### Source code (without align)
+### Source code 1 - without alignment
 
 ``` python
 plt.figure(figsize=(10, 2))
@@ -31,7 +31,7 @@ plt.show()
     </div>
 </center>
 
-### Source code (with align)
+### Source code 2 - with alignment
 
 ``` python
 plt.figure(figsize=(10, 2))
