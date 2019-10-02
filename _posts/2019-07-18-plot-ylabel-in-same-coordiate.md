@@ -57,4 +57,5 @@ plt.show()
 </center>
 
 ### Reference
-<a href="https://pythonmatplotlibtips.blogspot.com/2017/10/how-to-arrange-two-ylabels-using-python.html">Python Matplotlib Tips</a>
+<a href="https://pythonmatplotlibtips.blogspot.com/2017/10/how-to-arrange-two-ylabels-using-python.html">Python Matplotlib Tips</a><br>
+Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771175">[pdf]</a>
