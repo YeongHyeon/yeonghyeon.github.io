@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Plotting Text in Matplotlib Figure
 tags: [Python]
-date-string: OCTOBER 18, 2019
+date-string: OCTOBER 02, 2019
 ---
 
 ### Source code
@@ -26,5 +26,5 @@ plt.show()
 ```
 
 ### Reference
-<a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html">Matplotlib Histogram Function</a></br>
+<a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html">Matplotlib Histogram Function</a><br>
 <a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.text.html">Matplotlib Text Function</a>
