@@ -6,7 +6,9 @@ tags: [Python]
 date-string: JULY 18, 2019
 ---
 
-### Source code
+When you draw the three figures respectively by single plotting function, you may encounter a situation where the location of the y labels are different. This post deal with how to align the location of y label via tricky method.
+
+### Source code (without align)
 
 ``` python
 plt.figure(figsize=(10, 2))
@@ -20,6 +22,16 @@ plt.tight_layout()
 
 plt.show()
 ```
+
+<center>
+    <div>
+        <img src="/images/2019-07-18/align_qrs_voted.png"><br>
+        <img src="/images/2019-07-18/align_qrs_lead_i.png"><br>
+        <img src="/images/2019-07-18/align_qrs_lead_avr.png">
+    </div>
+</center>
+
+### Source code (with align)
 
 ``` python
 plt.figure(figsize=(10, 2))
@@ -35,6 +47,14 @@ plt.tight_layout()
 
 plt.show()
 ```
+
+<center>
+    <div>
+        <img src="/images/2019-07-18/align_qrs_voted.png"><br>
+        <img src="/images/2019-07-18/align_qrs_lead_i.png"><br>
+        <img src="/images/2019-07-18/align_qrs_lead_avr.png">
+    </div>
+</center>
 
 ### Reference
 <a href="https://pythonmatplotlibtips.blogspot.com/2017/10/how-to-arrange-two-ylabels-using-python.html">Python Matplotlib Tips</a>
