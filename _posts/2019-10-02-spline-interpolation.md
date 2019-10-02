@@ -17,9 +17,9 @@ y = np.asarray([580, 630, 740, 150, 1030, 800, 800, 600, 550, 520, 450, \
     570, 470, 480, 460, 490, 550, 580, 710, 890, 710, 90, 50, 60])
 x = np.arange(24)
 
-cs = CubicSpline(x, y)
-xs = np.arange(0, 23, 0.1)
-ys = cs(xs)
+cs = CubicSpline(x, y) # analyze the original values
+xs = np.arange(0, 23, 0.1) # new x values
+ys = cs(xs) # generate new y values
 
 plt.subplot(2,1,1)
 plt.title("True Samples")
