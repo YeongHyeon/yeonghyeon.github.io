@@ -9,6 +9,9 @@ date-string: OCTOBER 02, 2019
 ### Source code
 
 ``` python
+import numpy as np
+import matplotlib.pyplot as plt
+
 n1, bins1, patches1 = plt.hist(contents1, bins=100, range=(0, 1), alpha=0.5, label='Normal')
 n2, bins2, patches2 = plt.hist(contents2, bins=100, range=(0, 1), alpha=0.5, label='Abnormal')
 
