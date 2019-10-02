@@ -25,9 +25,9 @@ plt.show()
 
 <center>
     <div>
-        <img src="/images/2019-07-18/align_qrs_voted.png"><br>
-        <img src="/images/2019-07-18/align_qrs_lead_i.png"><br>
-        <img src="/images/2019-07-18/align_qrs_lead_avr.png">
+        <img src="/images/2019-07-18/qrs_voted.png"><br>
+        <img src="/images/2019-07-18/qrs_lead_i.png"><br>
+        <img src="/images/2019-07-18/qrs_lead_avr.png">
     </div>
 </center>
 
