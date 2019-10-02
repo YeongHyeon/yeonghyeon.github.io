@@ -25,6 +25,12 @@ plt.text(x=xmax*0.01, y=max(n1.max(), n2.max()), s="Histogram Intersection: %.3f
 plt.show()
 ```
 
+<center>
+    <div>
+        <img src="/images/2019-10-02/histogram-test.png">
+    </div>
+</center>
+
 ### Reference
 <a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html">Matplotlib Histogram Function</a><br>
 <a href="https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.text.html">Matplotlib Text Function</a>
