@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Install TensorFlow in Ubuntu (Terminal Only)
+title: Install TensorFlow in Ubuntu - Terminal Only
 tags: [Setting]
 date-string: AUGUST 19, 2019
 ---
