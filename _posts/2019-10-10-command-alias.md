@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: Install TensorFlow in Ubuntu
+title: Alias Command in Linux (Unix)
 tags: [Setting]
-date-string: OCTOBER 06, 2019
+date-string: OCTOBER 10, 2019
 ---
 
 Add alias command to '.bash_profile'.
