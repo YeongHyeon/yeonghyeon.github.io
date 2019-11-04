@@ -7,6 +7,7 @@ date-string: OCTOBER 10, 2019
 ---
 
 ## Data for plotting
+
 | Kernel Size | Learning Rate | Performance (AUROC)  |
 |-----:|-----:|-----:|
 |3|1e-5|0.95156|
@@ -32,8 +33,10 @@ list_kernel_size = [3, 3, 3, 3, 3, 3, 5, 5, ..., 13]
 list_learning_rate = [1e-5, 5e-5, 1e-4, 5e-4, 1e-3, 5e-3, 1e-5, 5e-5, ..., 5e-3]
 list_auroc = [0.95156, 0.95310, 0.93255, 0.92108, 0.95051, 0.44844, 0.95316, 0.95563, ..., 0.68930]
 
-unique_kernel_size, unique_learning_rate = list(set(list_kernel_size)), list(set(list_learning_rate))
-num_kernel, num_learng_rate = len(unique_kernel_size), len(unique_learning_rate)
+unique_kernel_size, unique_learning_rate = \
+  list(set(list_kernel_size)), list(set(list_learning_rate))
+num_kernel, num_learng_rate = \
+  len(unique_kernel_size), len(unique_learning_rate)
 
 
 perform_matrix = np.ones((num_kernel, num_learng_rate))
@@ -46,7 +49,8 @@ ax = fig.gca(projection='3d')
 X = np.arange(0, num_kernel, 1)
 Y = np.arange(0, num_learng_rate, 1)
 X, Y = np.meshgrid(X, Y)
-surf = ax.plot_surface(X=X, Y=Y, Z=perform_matrix, cmap=cm.viridis, linewidth=1, antialiased=True, vmin=0, vmax=1)
+surf = ax.plot_surface(X=X, Y=Y, Z=perform_matrix, \
+  cmap=cm.viridis, linewidth=1, antialiased=True, vmin=0, vmax=1)
 
 list_kernel_size.insert(0, list_kernel_size[0]-abs(list_kernel_size[0]-list_kernel_size[1]))
 list_learning_rate.insert(0, list_learning_rate[0]-abs(list_learning_rate[0]-list_learning_rate[1]))
