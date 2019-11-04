@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Surface plot in Python
 tags: [Python]
-date-string: OCTOBER 10, 2019
+date-string: November 04, 2019
 ---
 
 ## Data for plotting
