@@ -10,16 +10,16 @@ date-string: APRIL 07, 2020
 
 |Model|Source Code|Paper|
 |:---|:---|:---|
-| Shake-Shake Regularization | <a href="https://github.com/YeongHyeon/Shake-Shake">TensorFlow 1</a> |  |
-| Squeeze and Excitation Networks | <a href="https://github.com/YeongHyeon/SENet-Simple">TensorFlow 1</a> |  |
-| GhostNet | <a href="https://github.com/YeongHyeon/GhostNet">TensorFlow 1</a> |  |
-| ResNet | <a href="https://github.com/YeongHyeon/ResNet-TF2">TensorFlow 2</a> |  |
-| ResNeXt | <a href="https://github.com/YeongHyeon/ResNeXt-TF2">TensorFlow 2</a> |  |
-| WideResNet(WRN) | <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">TensorFlow 2</a> |  |
-| Network-in-Network-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">TensorFlow 2</a> |  |
+| Shake-Shake Regularization | <a href="https://github.com/YeongHyeon/Shake-Shake">TensorFlow 1</a> | https://arxiv.org/abs/1705.07485 |
+| Squeeze and Excitation Networks | <a href="https://github.com/YeongHyeon/SENet-Simple">TensorFlow 1</a> | https://arxiv.org/abs/1709.01507 |
+| GhostNet | <a href="https://github.com/YeongHyeon/GhostNet">TensorFlow 1</a> | https://arxiv.org/abs/1911.11907 |
+| ResNet | <a href="https://github.com/YeongHyeon/ResNet-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1512.03385 |
+| ResNeXt | <a href="https://github.com/YeongHyeon/ResNeXt-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1611.05431 |
+| WideResNet(WRN) | <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1605.07146 |
+| Network-in-Network-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1312.4400 |
 
 ## Additional Methods
 |Model|Source Code|Paper|
 |:---|:---|:---|
-| SGDR (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">TensorFlow 2</a> |  |  
-| LRWarmUp (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">TensorFlow 2</a> |  |  
+| SGDR (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1608.03983 |  
+| LRWarmUp (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1706.02677 |  
