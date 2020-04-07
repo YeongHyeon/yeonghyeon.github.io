@@ -15,7 +15,7 @@ date-string: APRIL 07, 2020
 | GhostNet | <a href="https://github.com/YeongHyeon/GhostNet">TensorFlow 1</a> | https://arxiv.org/abs/1911.11907 |
 | ResNet | <a href="https://github.com/YeongHyeon/ResNet-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1512.03385 |
 | ResNeXt | <a href="https://github.com/YeongHyeon/ResNeXt-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1611.05431 |
-| WideResNet(WRN) | <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1605.07146 |
+| WideResNet (WRN) | <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1605.07146 |
 | Network-in-Network-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1312.4400 |  
 
 ## Additional Methods
