@@ -7,14 +7,19 @@ date-string: APRIL 07, 2020
 ---
 
 ## Convolutional Neural Networks
-* <a href="https://github.com/YeongHyeon/Shake-Shake">Shake-Shake Regularization</a>  
-* <a href="https://github.com/YeongHyeon/SENet-Simple">Squeeze and Excitation Networks</a>  
-* <a href="https://github.com/YeongHyeon/GhostNet">GhostNet</a>  
-* <a href="https://github.com/YeongHyeon/ResNet-TF2">ResNet-TF2</a>
-* <a href="https://github.com/YeongHyeon/ResNeXt-TF2">ResNeXt-TF2</a>  
-* <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">WideResNet(WRN)-TF2</a>  
-* <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">Network-in-Network-TF2 (based on ResNet)</a>  
+
+|Model|Source Code|Paper|
+|:---|:---|:---|
+| Shake-Shake Regularization | <a href="https://github.com/YeongHyeon/Shake-Shake">TensorFlow 1</a> |  |
+| Squeeze and Excitation Networks | <a href="https://github.com/YeongHyeon/SENet-Simple">TensorFlow 1</a> |  |
+| GhostNet | <a href="https://github.com/YeongHyeon/GhostNet">TensorFlow 1</a> |  |
+| ResNet | <a href="https://github.com/YeongHyeon/ResNet-TF2">TensorFlow 2</a> |  |
+| ResNeXt | <a href="https://github.com/YeongHyeon/ResNeXt-TF2">TensorFlow 2</a> |  |
+| WideResNet(WRN) | <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">TensorFlow 2</a> |  |
+| Network-in-Network-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">TensorFlow 2</a> |  |
 
 ## Additional Methods
-* <a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">ResNet-with-SGDR-TF2</a>  
-* <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">ResNet-with-LRWarmUp-TF2</a>  
+|Model|Source Code|Paper|
+|:---|:---|:---|
+| SGDR (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">TensorFlow 2</a> |  |  
+| LRWarmUp (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">TensorFlow 2</a> |  |  
