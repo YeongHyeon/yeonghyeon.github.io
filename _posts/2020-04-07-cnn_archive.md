@@ -24,4 +24,4 @@ date-string: APRIL 07, 2020
 |:---|:---|:---|
 | SGDR (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1608.03983 |  
 | LRWarmUp (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1706.02677 |
-| ArcFace Loss | <a href="https://github.com/YeongHyeon/ArcFace-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1801.07698 |  
+| ArcFace Loss (with ResNet) | <a href="https://github.com/YeongHyeon/ArcFace-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1801.07698 |  
