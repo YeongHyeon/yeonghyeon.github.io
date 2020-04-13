@@ -16,12 +16,12 @@ date-string: APRIL 07, 2020
 | ResNet | <a href="https://github.com/YeongHyeon/ResNet-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1512.03385 |
 | ResNeXt | <a href="https://github.com/YeongHyeon/ResNeXt-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1611.05431 |
 | WideResNet (WRN) | <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1605.07146 |
-| Network-in-Network-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1312.4400 |
-| ArcFace-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/ArcFace-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1801.07698 |  
+| Network-in-Network-TF2 (ResNet Tweak) | <a href="https://github.com/YeongHyeon/Network-in-Network-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1312.4400 |  
 
 ## Additional Methods
 
 |Model|Source Code|Paper|
 |:---|:---|:---|
 | SGDR (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1608.03983 |  
-| LRWarmUp (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1706.02677 |  
+| LRWarmUp (with ResNet) | <a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1706.02677 |
+| ArcFace Loss | <a href="https://github.com/YeongHyeon/ArcFace-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1801.07698 |  
