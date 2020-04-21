@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: NeuralFace App Support
-tags: [z]
+tags: [iOS]
 date-string: APRIL 20, 2020
 ---
 
