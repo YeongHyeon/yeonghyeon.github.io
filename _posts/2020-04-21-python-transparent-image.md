@@ -27,5 +27,5 @@ plt.imsave("sample.png", canvas, cmap='Greys')
 <img src="/images/2020-04-21/sample.png" width="300">
 
 ## Reference
-[1] https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
+[1] https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html  
 [2] https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.savefig.html
