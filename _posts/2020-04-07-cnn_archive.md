@@ -12,7 +12,7 @@ date-string: APRIL 07, 2020
 |:---|:---|:---|
 | Shake-Shake Regularization | <a href="https://github.com/YeongHyeon/Shake-Shake">TensorFlow 1</a> | https://arxiv.org/abs/1705.07485 |
 | Squeeze and Excitation Networks | <a href="https://github.com/YeongHyeon/SENet-Simple">TensorFlow 1</a> | https://arxiv.org/abs/1709.01507 |
-| Selective Kernel Networks | <a href="https://github.com/YeongHyeon/SKNet-TF2">Tensorflow 2</a> | https://arxiv.org/abs/1903.06586 |
+| Selective Kernel Networks | <a href="https://github.com/YeongHyeon/SKNet-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1903.06586 |
 | GhostNet | <a href="https://github.com/YeongHyeon/GhostNet">TensorFlow 1</a> | https://arxiv.org/abs/1911.11907 |
 | ResNet | <a href="https://github.com/YeongHyeon/ResNet-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1512.03385 |
 | ResNeXt | <a href="https://github.com/YeongHyeon/ResNeXt-TF2">TensorFlow 2</a> | https://arxiv.org/abs/1611.05431 |
