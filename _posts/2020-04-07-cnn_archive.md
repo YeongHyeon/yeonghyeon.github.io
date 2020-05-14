@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Archive of Convolutional Neural Networks for Classification
 tags: [Python, Paper]
-date-string: APRIL 07, 2020
+date-string: MAY 14, 2020
 ---
 
 ## Convolutional Neural Networks
