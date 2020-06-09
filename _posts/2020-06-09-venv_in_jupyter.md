@@ -6,13 +6,13 @@ tags: [Python]
 date-string: JUNE 09, 2020
 ---
 
-## Create as a Jupyter Kernel
+### Create as a Jupyter Kernel
 ``` sh
 source venv/bin/activate
 python -m ipykernel install --user --name={kernel_name}
 ```
 
-## Confirm Jupyter Kernel list
+### Confirm Jupyter Kernel list
 ``` sh
 $jupyter kernelspec list
 Available kernels:
@@ -22,7 +22,7 @@ Available kernels:
   python3.8    /home/{user}/jupyter/kernels/python3.8
 ```
 
-## Remove Jupyter Kernel
+### Remove Jupyter Kernel
 ``` sh
 $jupyter kernelspec uninstall {kernel_name}
 ```
