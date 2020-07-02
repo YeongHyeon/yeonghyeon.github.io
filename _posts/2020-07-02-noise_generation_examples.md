@@ -15,6 +15,14 @@ import matplotlib.pyplot as plt
 
 ### Noise Generation
 
+|Color|Power|Power density|
+|:---|---:|---:|
+|White |+3 dB| 0 dB|
+|Pink  | 0 dB|-3 dB|
+|Blue  |+6 dB|+3 dB|
+|Brown |-3 dB|-6 dB|
+|Violet|+9 dB|+6 dB|  
+
 ``` python
 noise = acoustics.generator.noise(N=150, color={noise name}, state=None)
 ```
@@ -23,7 +31,7 @@ noise = acoustics.generator.noise(N=150, color={noise name}, state=None)
 
 <center>
     <p>
-        <img src="/images/2020-07-02/noise.png" width="700">
+        <img src="/images/2020-07-02/noise.png" width="450">
     </p>
 </center>
 
