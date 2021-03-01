@@ -12,5 +12,5 @@ date-string: DECEMBER 30, 2020
 brew install python
 brew install python@3.7
 brew unlink python@{temporary version} && brew link python@{target version}
-echo 'export PATH="/usr/local/opt/python@3.7/bin:$PATH"' >> /Users/1004613/.bash_profile
+echo 'export PATH="/usr/local/opt/python@3.7/bin:$PATH"' >> /Users/{username}/.bash_profile
 ```
